@@ -1,0 +1,48 @@
+Warning: Permanently added 'bsctrh6rtp165,10.235.64.254' (RSA) to the list of known hosts.
+***********************************************************************
+You are attempting to log into a NetApp owned and controlled system.
+Unauthorized access and/or improper use of this system may result in
+disciplinary action, termination of employment and possibly civil and
+criminal liability.  By using this system you agree to any published
+NetApp policy covering such use, including the
+
+NetApp Code of Conduct found at Integrity and Compliance Office Website;
+http://legal.corp.netapp.com/ico/wp-content/uploads/2012/05/NetApp_COC_internal.pdf
+NetApp Data Classification Policy found at Data Classification Policy;
+http://it-web.corp.netapp.com/support_services/policies/security_and_you/protecting_netapp_data.html.
+
+The system and the data, files and information contained herein are the
+property of NetApp and may contain confidential and/or personal data.
+Except where prohibited by law, NetApp may in its sole discretion use,
+intercept, monitor, record, copy, audit, inspect, delete, or modify
+such Information and further may disclose such Information to NetApp
+personnel, law enforcement agencies, or any other third parties as
+NetApp deems necessary to conduct its business and/or in accordance
+with relevant laws.
+***********************************************************************
+****************************************************************************
+
+             Welcome to bsctrh6rtp165.gdl.eng.netapp.com at unknown
+
+Linux bsctrh6rtp165.gdl.eng.netapp.com 2.6.32-642.6.1.el6.x86_64 x86_64
+
+ This machine is connected for doing BUILDS.
+ --- Please minimize interactive login activity on a build machine. ---
+
+ If there are any problems, please submit a request to:
+ https://netappeng.service-now.com
+
+ For information about system outages see:
+ http://engsupit.eng.netapp.com/engsys/apps/outage/index.php
+
+ For information about the function of a given machine see:
+ https://wikid.netapp.com/w/Engineering_Support/Build_Infrastructure/RTP
+
+****************************************************************************
+[amul@bsctrh6rtp165 ~]$ uptime
+ 21:28pm  up 130 days 19:41,  1 user,  load average: 0.31, 0.35, 0.35
+[amul@bsctrh6rtp165 ~]$ pukale
+pukale: Command not found.
+[amul@bsctrh6rtp165 ~]$ cd /u/pukale
+[amul@bsctrh6rtp165 pukale]$ ls
+[amul@bsctrh6rtp165 pukale]$
